@@ -1,0 +1,2 @@
+Natural language processing involves making sense of textual data. 
+We will remove stopwords, punctuation and apply stemming to normalize words.
